@@ -1,22 +1,5 @@
-/* Default settings */
-/* * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-} */
+/* Grid Layout 1 */
 
-/* box-model */
-/*  {
-    margin:auto;
-    padding:auto;
-    border:auto;
-    overflow: hidden, scroll, visible;
-    visibility: hidden, visible, collapse;
-}
- */
-
-
- /* Grid Layout 1 */
 .grid-container {
     display: grid;
     grid-template-columns: repeat(4, auto);
@@ -167,6 +150,8 @@
 .img13 {
     background-color: #2a3da5;
 }
+
+
 
 .container {
     display: grid;
